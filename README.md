@@ -125,8 +125,8 @@ This Guidance supports the following AWS regions where Amazon Bedrock Claude 3.5
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/aws-solutions-library-samples/guidance-for-multi-agent-orchestration-langgraph-on-aws.git
-cd guidance-for-multi-agent-orchestration-langgraph-on-aws
+git clone https://github.com/dhanushmekala04/Multi-Agent-Orchestration-using-LangGraph-on-AWS
+cd Multi-Agent-Orchestration-using-LangGraph-on-AWS
 ```
 
 2. Configure AWS credentials:
